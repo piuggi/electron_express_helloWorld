@@ -40,7 +40,7 @@ app.on('ready', function() {
   //mainWindow.loadUrl('file://' + __dirname + '/www/index.html');
   mainWindow.loadUrl('http://localhost:8080')
   // Open the devtools.
-  mainWindow.openDevTools();
+  //mainWindow.openDevTools();
 
   // Emitted when the window is closed.
   mainWindow.on('closed', function() {
