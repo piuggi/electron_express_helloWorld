@@ -5,7 +5,7 @@ First Ensure you have Node.js / npm on your system.
 
 Then make sure you have electron on your system
 
-```npm install electron -g ```
+```npm install electron-prebuilt -g ```
 
 
 
