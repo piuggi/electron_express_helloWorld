@@ -2,9 +2,6 @@
   "name": "hello-world",
   "version": "0.1.0",
   "main": "main.js",
-  "scripts": {
-    "postinstall": "./node_modules/.bin/electron-rebuild"
-  },
   "dependencies": {
     "express": "^4.12.4",
     "hbs": "^3.0.1",

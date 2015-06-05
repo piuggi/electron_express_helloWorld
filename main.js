@@ -5,8 +5,7 @@ var express = require('express');
 var expressApp = express();
 
 expressApp.get('/', function (req, res) {
-  res.send("whats up misa")
-  //res.send('Hello Electron World From Express!');
+  res.send('Hello Electron World From Express!');
 });
 
 var server = expressApp.listen(8080, function () {
